@@ -1,0 +1,12 @@
+num = int(input("Enter a number: "))
+
+iteration = 1
+
+'''
+for i in range(1, num + 1):
+  print(i)
+'''
+
+while iteration <= num:
+    print(iteration)
+    iteration += 1
