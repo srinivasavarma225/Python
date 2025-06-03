@@ -1,1 +1,1 @@
-Basic programs to building learnt skills to build specific projects based on the learnt skills
+Basic programs for applying learned skills to build specific projects based
